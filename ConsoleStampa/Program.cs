@@ -10,7 +10,7 @@ namespace ConsoleStampa
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ciao !");
+            Console.WriteLine("AAAAAAAAAAAAAAAAAAAAAAAAA !");
             Console.ReadKey();
         }
     }
